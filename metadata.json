@@ -1,6 +1,6 @@
 {
-  "uuid": "usd-brl@jcanabarro.github.com",
-  "name": "USD-BRL",
+  "uuid": "eur-brl@jcanabarro.github.com",
+  "name": "EUR-BRL",
   "description": "Gnome Extension that shows the current conversion of Euro to Brazilian Reals",
   "version": 3.5,
   "shell-version": [
