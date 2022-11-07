@@ -1,3 +1,3 @@
 # EUR-BRL
 
-A simple extension that compares the price of the Euro with the Brazilian Reals, to show if is increasing or not.
+A simple extension that compares the price of the Euro with the Brazilian Reais, to show if is increasing or not.
