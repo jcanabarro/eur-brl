@@ -1,2 +1,3 @@
-# eur-brl
-Gnome Extension that shows the current conversion of Euro to Brazilian Reais
+# EUR-BRL
+
+A simple extension that compares the price of the Euro with the Brazilian Reals, to show if is increasing or not.
