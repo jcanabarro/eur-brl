@@ -112,7 +112,7 @@ async function handle_request_api() {
     } catch (error) {
         log(`Traceback Error in [handle_request_api]: ${error}`);
         panelButtonText = new St.Label({
-            text: "BRL: $" + _quotation + " * ",
+            text: "BRL: €" + _quotation + " * ",
             y_align: Clutter.ActorAlign.CENTER,
         });
         panelButton.set_child(panelButtonText);
